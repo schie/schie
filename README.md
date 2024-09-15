@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Schie's github stats](https://github-readme-stats.vercel.app/api?username=schie&show_icons=true&theme=radical&count_private=true)
-
 - 🔭 I’m currently working on React Native Apps and Libraries, and GraphQL APIs
 - 🌱 I’m currently learning Elixir Lang, Phoenix Framework, and Swift UI
 - 👯 I’m looking to collaborate on all the things
